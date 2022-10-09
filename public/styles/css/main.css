@@ -6,11 +6,28 @@
 }
 
 .green {
-  background: green;
+  background: #97ff97;
 }
 
 .red {
-  background: red;
+  background: #ff8383;
+}
+
+ul li {
+  list-style: none;
+  padding: 10px;
+  text-transform: capitalize;
+  font-weight: 700;
+  margin: 100px auto;
+  cursor: pointer;
+  border-radius: 10px;
+  color: black;
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.504);
+  transition: 0.1s;
+}
+ul li:hover {
+  color: white;
+  background: #343434;
 }
 
 /*# sourceMappingURL=main.css.map */

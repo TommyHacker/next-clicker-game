@@ -1,1 +1,0 @@
-# next-clicker-game

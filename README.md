@@ -20,3 +20,11 @@
 
 - "start" : "next start"
   <i>npm run start is the script for chosen deployment method</i>
+
+# changelog
+
+<!-- //////////////////////////////////////////////// -->
+
+# Next Steps
+
+- - add redux because this prop drilling is already taking a toll
