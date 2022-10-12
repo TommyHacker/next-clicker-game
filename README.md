@@ -26,10 +26,6 @@
 <!-- //////////////////////////////////////////////// -->
 
 - adding jobs that earn realistic amounts calculated per second.
-- removed shop for now and instead am working in a job application with probability of getting employed for earnings multiplyer.
-- added "earning intermission" where the day is cycling and earnings are going up, if the story progresses all earnings are paused until next button is pressed.
-- basic create character, just name and password for now. will expand into auth when server is implemented and then onto visual assets.
-- message dialog for game status and progression updates
 - added basic day cycle with ability to easily adjust how long each hour lasts in real time
 
 # Next Steps
@@ -42,9 +38,6 @@
 - Day cycle for sleep , health and not being able to do certain things while working etc
 - mood - <i>happiness, depression, rested etc</i>
 - shop purchases should affect mood positively as well as low funds negatively.
-- social connection, could implement reluctance to socialise if new clothes etc have not been purchased. trying to add some realism here.
-- add dayCycle interpreter that can take the value and output a more familiar readable time e.g. 1pm or 13:00 or both with a switch for preference! would be good to add a little visual clock later.
-- HUNGER, simple way of adding some sort of realism.
 
 # Notes
 
@@ -53,7 +46,6 @@ the game has become way too complex too soon before it even has the basics. its 
 This should result in much faster development overall.
 
 - start with just the time passing in hours and earnings per second
-- implement a way to make choices, make the story progress and alter the earnings based on those choices e.g. get or lose a job.
 
 - added universal Meter component, can take in attribute which depletes at a defined rate
 
